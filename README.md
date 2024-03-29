@@ -2,8 +2,8 @@
 
 👩🏻‍💻 Introduction 👩🏻‍💻
 
-안녕하세요! jcowwk 입니다.<br>
-꾸준히 성장하는 모습 기대해주세요🧏🏻‍♀️
+안녕하세요! 끊임없이 배우고 나아가는 프로그래머 jcowwk 입니다.<br>
+열정, 열정, 열정 ~! 🧏🏻‍♀️
 
 📚 Platforms & Languages 📚
 
@@ -15,3 +15,8 @@
 🛠️ Tools 🛠️
 
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+📝 자격증 & 어학 📝 <br>
+
+SQLD, 정보처리기사, TOEIC-S IM3 <br>
+한국사능력검정시험 2급
