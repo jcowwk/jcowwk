@@ -3,7 +3,7 @@
 👩🏻‍💻 Introduction 👩🏻‍💻
 
 안녕하세요! 끊임없이 배우고 나아가는 프로그래머 jcowwk 입니다.<br>
-열정, 열정, 열정 ~! 🧏🏻‍♀️
+java & web 위주의 프로젝트에 참여하고 있습니다 ~! 🧏🏻‍♀️
 
 📚 Platforms & Languages 📚
 
