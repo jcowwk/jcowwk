@@ -1,8 +1,8 @@
-# 🏖️ soyeon's develop
+# 🏖️ jcowwk's develop
 
 👩🏻‍💻 Introduction 👩🏻‍💻
 
-안녕하세요! 끊임없이 배우고 나아가는 프로그래머 jcowwk 입니다.<br>
+안녕하세요! 끊임없이 배우고 나아가는 프로그래머 주소연 입니다.<br>
 java & web 위주의 프로젝트에 참여하고 있습니다 ~! 🧏🏻‍♀️
 
 📚 Platforms & Languages 📚
@@ -15,10 +15,3 @@ java & web 위주의 프로젝트에 참여하고 있습니다 ~! 🧏🏻‍♀
 🛠️ Tools 🛠️
 
 ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-📝 자격증 & 어학 📝 <br>
-
-SQLD 2024.04.05. <br>
-정보처리기사 2023.06.09. <br>
-TOEIC-S IM3 <br>
-한국사능력검정시험 2급 2023.08.25.
