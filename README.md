@@ -4,7 +4,7 @@
 
 안녕하세요. 백엔드 개발자 주소연입니다🧏🏻‍♀️
 
-📚 Platforms & Languages 📚
+📚 Tech Stack 📚
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
