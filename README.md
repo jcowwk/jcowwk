@@ -20,4 +20,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white)
 
+![Postman](https://img.shields.io/badge/Postman-007396?style=flat-square&logo=postman&logoColor=white) ![Rest_API](https://img.shields.io/badge/REST_API-007396?style=flat-square&logo=api&logoColor=white)
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
