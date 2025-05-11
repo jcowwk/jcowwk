@@ -35,6 +35,7 @@
 
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white)
   ![EC2](https://img.shields.io/badge/EC2-FF9900?style=plastic&logo=amazonaws&logoColor=white)
