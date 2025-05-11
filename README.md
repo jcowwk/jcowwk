@@ -49,6 +49,9 @@
   ![Prometheus](https://img.shields.io/badge/Prometheus-FF69B4?style=plastic&logo=prometheus&logoColor=white)
   ![Grafana](https://img.shields.io/badge/Grafana-FFA500?style=plastic&logo=grafana&logoColor=white)
 
+  ![RESTful API](https://img.shields.io/badge/RESTful%20API-25B2C2?style=plastic&logo=api&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=white)
+
   <h2>✨About✨</h2>
   
   <div style="display: inline-block; margin-right: 10px;">
