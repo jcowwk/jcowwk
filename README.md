@@ -45,6 +45,8 @@
   ![ElastiCache](https://img.shields.io/badge/ElastiCache-FF4F00?style=plastic&logo=amazonaws&logoColor=white)
   ![IAM](https://img.shields.io/badge/IAM-FF9900?style=plastic&logo=amazonaws&logoColor=white)
   ![AWS VPC](https://img.shields.io/badge/AWS%20VPC-232F3E?style=plastic&logo=amazonaws&logoColor=white)
+  ![Route 53](https://img.shields.io/badge/Route%2053-7B3FBF?style=plastic&logo=amazonaws&logoColor=white)
+  ![CloudWatch](https://img.shields.io/badge/CloudWatch-ED0086?style=plastic&logo=amazonaws&logoColor=white)
 
   ![Prometheus](https://img.shields.io/badge/Prometheus-FF69B4?style=plastic&logo=prometheus&logoColor=white)
   ![Grafana](https://img.shields.io/badge/Grafana-FFA500?style=plastic&logo=grafana&logoColor=white)
